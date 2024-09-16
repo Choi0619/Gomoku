@@ -1,7 +1,7 @@
 # Gomoku
 
 ## Description
-This is a **Gomoku (오목)** game built using **Python**. The game follows the traditional Gomoku rules where players take turns placing stones on a board, aiming to align five stones in a row, either horizontally, vertically, or diagonally.
+This is a **Gomoku** game built using **Python**. The game follows the traditional Gomoku rules where players take turns placing stones on a board, aiming to align five stones in a row, either horizontally, vertically, or diagonally.
 
 ## Features:
 - Classic Gomoku gameplay
